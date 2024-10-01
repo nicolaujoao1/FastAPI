@@ -25,7 +25,7 @@ This project uses **Slice Architecture**, which means that the code is organized
 ### Structure aplyed
 
 ```plaintext
-src/
+
 |-- Features/
     |-- Products/
         |-- Create/
